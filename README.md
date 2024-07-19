@@ -73,7 +73,7 @@ Follow these steps to set up the Pokétwo Captcha Solver on your system:
    - The software logs its activities and any errors in the `bin/logs/` directory. Check these logs if you need to troubleshoot issues or monitor performance.
 
 7. **Access the Web Interface:**
-   - Open a client and send requests to `http://localhost:3000/solve/123x2384` (or the port specified in your `config.toml` file) to access the solve functionality.
+   - Open a client and send requests to `http://localhost:3000/solve/uid` (or the port specified in your `config.toml` file) to access the solve functionality.
 
 If you encounter any issues or have questions, please refer to the documentation or contact support for assistance.
 
