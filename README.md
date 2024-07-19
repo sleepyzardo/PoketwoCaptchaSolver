@@ -1,5 +1,5 @@
 # Pokétwo Captcha Solver
-
+Pokétwo Captcha Solver is a FastAPI-based application designed to automate the solving of captchas for the Pokétwo Discord bot. This project utilizes the various services and logics to handle captcha challenges, with robust error handling and logging mechanisms in place. The application supports configuration via TOML files and offers integration with Discord webhooks for real-time notifications.
 ## Overview
 
 The Pokétwo Captcha Solver is a high-performance tool designed to solve captchas for the Pokétwo Discord bot. It utilizes advanced techniques for captcha recognition and integrates with Discord's webhook system for notifications.
