@@ -104,6 +104,20 @@ The software provided in this repository is protected by a license agreement. Th
 > [!WARNING]
 > - **Unauthorized Use:** Using the software without a valid license is a violation of the license agreement and may lead to Revoking of the license. Ensure that you comply with the terms of the license to avoid any potential legal issues.
 
+### Pricing
+
+This software is currently available under a paid license. Pricing details and subscription options can be obtained by contacting our sales team directly. 
+
+For information on pricing tiers, licenses, or custom solutions, please reach out to us at @sleepyzardo or @dependential on discord.
+
+### Current Pricing Tiers
+
+- **Basic Plan**: Includes a monthly license key and 24/7 support. 
+- **Standard Plan**: Includes a lifetime license key and 24/7 support.
+- **Premium Plan**: Includes a lifetime source code access with priority support and custom code requests.
+
+Please note that pricing may vary based on specific requirements and usage. Contact us for a detailed quote and to discuss your needs.
+
 
 
 ### License Agreement
