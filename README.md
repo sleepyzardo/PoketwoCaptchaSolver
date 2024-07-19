@@ -102,7 +102,7 @@ The software provided in this repository is protected by a license agreement. Th
 > - **License Expiry:** Monitor the expiration date of your license. An expired license will result in the software becoming inactive or limited in functionality. Renew your license before it expires to ensure uninterrupted access to the software.
 
 > [!WARNING]
-> - **Unauthorized Use:** Using the software without a valid license is a violation of the license agreement and may lead to Revoking of the license. Ensure that you comply with the terms of the license to avoid any potential legal issues.
+> - **Unauthorized Distribution:** Distributing the software without a valid permission is a violation of the license agreement and may lead to Revoking of the license. Ensure that you comply with the terms of the license to avoid any potential legal issues.
 
 ### Pricing
 
@@ -137,7 +137,7 @@ For support or inquiries, please contact @sleepyzardo or @dependential on discor
 
 ## Contributing
 
-As this is a private repository, contributions are limited to authorized personnel.
+As this is a private project, contributions are limited to authorized personnel.
 To contribute your ideas, Please contact me on discord @sleepyzardo.
 
 ## Disclaimer
