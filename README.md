@@ -146,7 +146,7 @@ Use of this software is subject to the terms outlined in the license agreement. 
 
 ## Updates
 ```diff
-+ Added new Bypass System
++ Added new Bypass
 + Added OAuth2 Authorization using pure requests. The solver now solves as sub 5 seconds.
 
 ! Initial Release
